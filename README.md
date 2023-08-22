@@ -1,6 +1,5 @@
 ##### Hi there 👋, I am Tabanoon mim
 #### Web development
-![Web development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am a Full Stack Web Developer and have great experience in MERN-Stack development. I build high-end, user-friendly, responsive websites.
 
